@@ -18,7 +18,7 @@ const Footer = () => {
           <h3 className="footer-title">Recipes</h3>
           <div className="footer-links">
             <Link to="/recipes" className="footer-link">All Recipes</Link>
-            <Link to="/categories" className="footer-link">Categories</Link>
+            {/* <Link to="/categories" className="footer-link">Categories</Link> */}
           </div>
         </div>
 

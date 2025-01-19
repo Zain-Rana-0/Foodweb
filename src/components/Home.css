@@ -49,7 +49,7 @@
   }
   
   /* Section layouts */
-  .categories,
+  .Breakfast
   .dishes {
     margin-bottom: calc(var(--spacing-unit) * 3);
   }
