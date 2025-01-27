@@ -32,8 +32,8 @@ const Footer = () => {
         <div className="footer-section" style={{ '--section-index': 3 }}>
           <h3 className="footer-title">Contact</h3>
           <div className="contact-info">
-            <p>📧 Email: zaiqahub@gmail.com</p>
-            <p>📱 Phone: (+92) 325 1575 822</p>
+            <p>Email: zaiqahub@gmail.com</p>
+            <p>Phone: (+92) 325 1575 822</p>
           </div>
         </div>
       </div>
