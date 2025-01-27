@@ -1,0 +1,102 @@
+{
+  "breakfast": [
+    {
+      "title": "Naan and Chany",
+      "description": "Naan is a traditional South Asian flatbread that is soft, fluffy, and slightly chewy. It is typically cooked in a tandoor, giving lightly charred flavor",
+      "image": "/images/nashta1.jpg"
+    },
+    {
+      "title": "Paratha",
+      "description": "Paratha is a flaky, layered flatbread made from wheat flour and cooked on a tava (flat pan) with ghee or oil..",
+      "image": "/images/nashta2.jpg"
+    },
+    {
+      "title": "Puri",    
+      "description": "Puri is a deep-fried, puffed bread made from unleavened wheat flour dough. It is golden and crisp on the outside, yet soft and airy inside.",
+      "image": "/images/nashta3.jpg"
+    }
+  ],
+  "lunch": [
+    {
+      "title": "Korma",
+      "description": "Korma is a luxurious curry dish, known for its creamy, aromatic, and mildly spiced gravy.",
+      "image": "/images/lunch1.jpg"
+    },
+    {
+      "title": "Aloo Keema",
+      "description": "Aloo Keema is a hearty and flavorful dish made with minced meat (usually beef or mutton) and potatoes cooked in a rich, spiced gravy. ",
+      "image": "/images/lunch2.jpg"
+    },
+    {
+      "title": "Biryani",
+      "description": "Biryani is a legendary South Asian rice dish made with fragrant basmati rice, tender meat (such as chicken, beef, or mutton), and a blend of aromatic spices",
+      "image": "/images/lunch3.jpg"
+    }
+  ],
+  "dinner": [
+    {
+      "title": "Aloo Gosht",
+      "description": "Aloo Gosht is a comforting curry that combines tender meat (usually mutton or beef) with soft, flavorful potatoes in a spiced gravy.",
+      "image": "/images/Dinner1.jpg"
+    },
+    {
+      "title": "Mutton Karahi",
+      "description": "Mutton Karahi is a classic Pakistani dish cooked in a traditional wok-like pan called a karahi.",
+      "image": "/images/Dinner2.jpg"
+    },
+    {
+      "title": "Jalfrezi",
+      "description": "Jalfrezi is a vibrant and spicy South Asian curry made with stir-fried meat (such as chicken, mutton, or beef), bell peppers, onions, and tomatoes.",
+      "image": "/images/Dinner3.jpg"
+    }
+  ],
+  "desert": [
+    {
+      "title": "Gajar ka Halwa",
+      "description": "A classic winter delight, Carrot Halwa is made by slowly cooking grated carrots with milk, sugar, and ghee.",
+      "image": "/images/Desert1.jpg"
+    },
+    {
+      "title": "Rabri",
+      "description": "Thickened sweetened milk, Rabri is a decadent dessert that’s enriched with layers of malai (cream), sugar, and subtle flavors of rose water or cardamom.",
+      "image": "/images/Desert2.jpg"
+    },
+    {
+      "title": "Kheer",
+      "description": "A traditional rice pudding, Kheer is a creamy dessert made with milk, rice, sugar, and aromatic spices like cardamom.",
+      "image": "/images/Desert3.jpg"
+    }
+  ],
+  "dishes": [
+    {
+      "name": "Chicken Biryani",
+      "description": "",
+      "image": "/images/baryani.jpg"
+    },
+    {
+      "name": "Paya",
+      "description": "",
+      "image": "/images/paye.jpg"
+    },
+    {
+      "name": "Nihari",
+      "description": "",
+      "image": "/images/nihari.jpg"
+    },
+    {
+      "name": "Paratha",
+      "description": "",
+      "image": "/images/paratha.jpg"
+    },
+    {
+      "name": "Haleem",
+      "description": "",
+      "image": "/images/haleem.jpg"
+    },
+    {
+      "name": "Karahi",
+      "description": "",
+      "image": "/images/karahi.jpg"
+    }
+  ]
+}
